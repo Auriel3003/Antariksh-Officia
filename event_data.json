@@ -1,0 +1,106 @@
+[
+    {
+        "Name":"Stargazing Party",
+        "img":"e1.jpg",
+        "li":"stargazing.html",
+        "disc":"Astronomy is considered the oldest of the sciences. So amateur astronomy may very well be the oldest of the scientific hobbies. We have frequently had the chance to help others learn the hobby. On occasion, a scoutmaster might ask us give his or her troop a tour of the night sky. We also help with organized events in which the general public is invited (through the local media) to peer skyward through different telescopes. We enjoy these kind of gatherings even more than spending time under the stars alone."
+    },
+    {
+        "Name":"Understanding universe Workshop",
+        "img":"projects/universe.jpg",
+        "li":"workshop.html",
+
+        "disc":"Our universe is both ancient and vast, and expanding out farther and faster every day. This accelerating universe, the dark energy that seems to be behind it, and other puzzles like the exact nature of the Big Bang and the early evolution of the universe are among the great puzzles of cosmology."
+    },
+    {
+        "Name":"Exoplanet Workshop",
+        "img":"img/exoplanet.jpg",
+        "li":"exoplanet.html",
+
+        "disc":"Day 1: Basic Python, basic statistics and modules that go into data handling and data visualisation<br> Day 2: Theory related to exoplanets, handling FITS & CSV files, applied machine learning and data processing to get the light curve<br>"
+    },
+    {
+        "Name":"Astronomy quiz",
+        "img":"img/quiz.jpg",
+        "li":"quiz.html",
+
+        "disc":"Quiz conducted by the club for the students to test their knowledge in basics of astronomy<br>"
+    },
+    {
+        "Name":"Invited Talk on SETI",
+        "img":"projects/kepler.jpg",
+        "li":"seti.html",
+
+        "disc":"Talk by Dr. Erik Zackrisson in collaboration with DAASE<br>"
+    },
+    {
+        "Name":"100 hours of Astronomy",
+        "img":"img/100hr.png",
+        "li":"100_hours.html",
+
+        "disc":"The 100 Hours of Astronomy event is a celebration composed of a broad range of activities aimed at involving the public.<br>"
+    },
+    {
+        "Name":"Documentary",
+        "img":"img/documentary.jpeg",
+        "li":"documentary.html",
+
+        "disc":"Space and the universe have fascinated humans for thousands of years. Being awestruck by what lies beyond our home planet has been one of the most important driving forces behind our species' technological advancement.Easy-to-digest documentaries that give us an insight, as laymen, into our current understanding of what exists beyond Earth.<br>"
+    },
+    {
+        "Name":"Introduction to Astronomy and Astro Club",
+        "img":"img/intro",
+        "li":"introduction.html",
+
+        "disc":"This was a short workshop to aware the freshers batch about the role of astronomy club and basic elements of astronomy - Stars, planets,etc.<br>"
+    },
+
+
+
+    {
+        "Name":"Apogee 1 : Quiz",
+        "img":"img/apg1.jpg",
+        "li":"apg1.html",
+
+        "disc":"It's better to use your brain to the maximum extent and die, rather than dying without making use of your brain. We launched this event for them who doesn't need a lucid structure of question to answer them. So, get ready to scratch your head while answering some of the most amorphous questions in your life. Astronomy Club of IIT Indore is organizing a quiz competition. So, let's get started with this quiz where you will have to answer some brainstorming questions.<br>"
+    },
+    {
+        "Name":"Apogee 2 : Quiz",
+        "img":"img/apg2.jpg",
+        "li":"apg2.html",
+
+        "disc":"It's better to use your brain to the maximum extent and die, rather than dying without making use of your brain. We launched this event for them who doesn't need a lucid structure of question to answer them. So, get ready to scratch your head while answering some of the most amorphous questions in your life.<br>The Astronomy Club of IIT Indore is organizing Apogee 2 quiz competition. So, let's get started with this quiz where you will have to answer some brainstorming questions.<br>"
+    },
+    {
+        "Name":"Apogee 3 : Quiz",
+        "img":"img/apg3.jpg",
+        "li":"apg3.html",
+
+        "disc":"The Astronomy Club, IIT Indore brings to you the third edition of the Apogee quiz. Are you a person who loves astronomy? Do you enjoy reading about Halley’s comet, the mysteries behind the formation of black holes and neutron stars? Do you want to delve deeper into the world of astronomy? Get ready to scratch your head while answering some of the most amorphous questions of your life..<br>"
+    },
+    {
+        "Name":"Nakshatra IIT Indore Astronomy Fest",
+        "img":"img/nakshatra.jpg",
+        "li":"nakshatra.html",
+
+        "disc":"The Astronomy Club, IIT Indore brings for your enjoyment, the very first edition of our Astronomy Fest - Nakshatra!<br>Enjoy a veritable menagerie of fun and exciting events - Talks, Quizzes, Competitions, Workshops. We have them all!Do you enjoy learning about the mysteries of Black Holes and Neutron stars which lie waiting in the abyss of space? Do you want to learn the technical tools which can allow you to discover new worlds and unfurl the mysteries of the cosmos? DO you want to improve on the designs of SpaceX rockets? Do you like wracking your brain on the toughest cosmic conundrums? Or just a fun game of astronomy-themed scribble? So, get ready to scratch your head while answering some of the most amorphous questions in your life.<br>"
+    },
+    {
+        "Name":"Diwali Cosmic Quiz",
+        "img":"img/intro",
+        "li":"diwali.html",
+
+        "disc":"It's better to use your brain to the maximum extent and die, rather than dying without making use of your brain. We launched this event for them who doesn't need a lucid structure of question to answer them.<br>So, get ready to scratch your head while answering some of the most amorphous questions in your life. Astronomy Club of IIT Indore is organizing a quiz competition. So, let's get started with this quiz where you will have to answer some brainstorming questions.<br>"
+    },
+    {
+        "Name":"Kepler quiz",
+        "img":"img/kepler.jpg",
+        "li":"kepler.html",
+
+        "disc":" The Astronomy Club, IIT Indore brings to you yet another quiz, the Kepler Quiz. Are you a person who loves astronomy? Do you enjoy reading about Halley’s comet, the mysteries behind the formation of black holes and neutron stars? Do you want to delve deeper into the world of astronomy? Get ready to scratch your head while answering some of the most amorphous questions of your life.<br>"
+    }
+
+
+
+
+]
