@@ -1,0 +1,25 @@
+<style>
+    /* Custom CSS for the interview cards */
+    .card {
+        border: none;
+        border-radius: 10px; /* Add rounded corners */
+        transition: transform 0.2s;
+    }
+
+    .card:hover {
+        transform: scale(1.05); /* Add a slight zoom effect on hover */
+    }
+
+    .card-title {
+        font-size: 1.5rem; /* Increase the font size of the card title */
+    }
+
+    .card-text {
+        font-size: 1.2rem; /* Increase the font size of the card text */
+    }
+
+    /* Center align the card text */
+    .card-body {
+        text-align: center;
+    }
+</style>
